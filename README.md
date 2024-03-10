@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Kumar Yadav</h1>
-<h3 align="center">Experienced Magento Developer with a strong background in e-commerce development and customization. Proficient in Magento 2.x and adept at creating robust, scalable, and high-performance online stores. Skilled in both frontend and backend development, with a keen eye for detail and a commitment to delivering exceptional user experiences.</h3>
+<h3 align="center">Experienced Magento Developer with a strong background in e-commerce development and customization. Proficient in Magento 2.x and adept at creating robust, scalable, and high-performance online stores. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjay-om&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjay-om" /> </p>
 
 - 🔭 I’m currently working on [HeroEsho](https://eshop.heromotocorp.com/)
